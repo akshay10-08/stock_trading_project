@@ -8,4 +8,4 @@ The goal of this project is to demonstrate how decentralized trading can be mode
 It includes basic functions for adding stocks, purchasing, and selling them with Ether.  
 
 You can explore and test the contract live in Remix IDE:  
-👉 [Open in Remix](https://remix.ethereum.org/#url=https://github.com/akshay10-08/stock_trading_project/blob/main/stock_trading/trading_code.sol)
+[Open in Remix](https://remix.ethereum.org/#url=https://raw.githubusercontent.com/akshay10-08/stock_trading_project/main/stock_trading/trading_code.sol)
